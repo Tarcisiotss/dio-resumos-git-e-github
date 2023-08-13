@@ -11,7 +11,9 @@ Repositório para armazenar resumos sobre Git e GitHub do curso Versionamento de
 
 | Aulas | Resumos |
 |-------|---------|
-| Gravando Alterações no Repositório local | [Resumo](https://github.com/Tarcisiotss/meu-projeto) |
+| Aula 01 | [Resumo](https://github.com/Tarcisiotss/meu-projeto) |
+ Aula 02 |[Resumo](https://github.com/Tarcisiotss/meu-projeto) |
+
 
 ```
 git init
